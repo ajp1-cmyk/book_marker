@@ -1,0 +1,19 @@
+{
+  "name": "bookmarker",
+  "version": "1.0.0",
+  "description": "simple bookmark app",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ts",
+    "bookmark",
+    "htmx"
+  ],
+  "author": "ajp1",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
